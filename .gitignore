@@ -21,13 +21,6 @@ Thumbs.db
 # -------------------------
 # Output / cache files
 # -------------------------
-funded_wallets.txt
-target_matches.txt
-addresses_output.txt
-addresses_output_tron.txt
-addresses_output_eth.txt
-addresses_output_eth_tron.txt
-addresses_output_*.txt
 
 # -------------------------
 # Generated data / key files
