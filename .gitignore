@@ -1,0 +1,60 @@
+# -------------------------
+# Node.js project settings
+# -------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+
+# -------------------------
+# Environment / system
+# -------------------------
+.env
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# -------------------------
+# Output / cache files
+# -------------------------
+funded_wallets.txt
+target_matches.txt
+addresses_output.txt
+addresses_output_tron.txt
+addresses_output_eth.txt
+addresses_output_eth_tron.txt
+addresses_output_*.txt
+
+# -------------------------
+# Generated data / key files
+# -------------------------
+target_addresses.txt
+*.key
+*.pem
+*.p12
+*.json
+
+# -------------------------
+# Temporary files
+# -------------------------
+*.tmp
+*.temp
+*.bak
+*.old
+
+# -------------------------
+# OS / misc
+# -------------------------
+ehthumbs.db
+desktop.ini
+
+# -------------------------
+# Optional backup files
+# -------------------------
+backup/
+outputs/
+results/
