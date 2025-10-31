@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ethers": "^5.8.0",
+    "tronweb": "^6.0.4"
+  }
+}

@@ -32,11 +32,6 @@ addresses_output_*.txt
 # -------------------------
 # Generated data / key files
 # -------------------------
-target_addresses.txt
-*.key
-*.pem
-*.p12
-*.json
 
 # -------------------------
 # Temporary files
